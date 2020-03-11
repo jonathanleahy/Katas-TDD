@@ -1,3 +1,7 @@
-node_modules
+# JavaScript, TypeScript, NodeJS
+/dist
+/package-lock.json
+/node_modules
+
 
 
